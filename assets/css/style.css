@@ -1,5 +1,12 @@
 /* remove this code and add your own! */
 .greeting {
-  color: green;
+  color: #cfb9b8;
   font-size: 30px;
+
+}
+
+.tech h1 {
+  font-family: monospace, sans-serif;
+  color: #cfb9b8;
+  font-size: 15px;
 }
